@@ -49,8 +49,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "지금 바로 탐색하세요, discover",
-        "meta_descr": "",
+        "title": "디스커버-최상의 검색엔진",
+        "meta_descr": "디스커버에서 검색하세요.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
