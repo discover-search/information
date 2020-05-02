@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "discover-info.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,10 +46,10 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "index.html": {
+    "discover-info.html": {
       "settings": {
         "main": true,
-        "title": "baboseo",
+        "title": "search with Discover",
         "meta_descr": "디스커버에서 검색하세요.",
         "header_custom": "",
         "footer_custom": "",
