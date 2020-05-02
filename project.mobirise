@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "discover-info.html",
+    "currentPage": "info.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,7 @@
     "screenshot": "screenshot.png"
   },
   "pages": {
-    "discover-info.html": {
+    "info.html": {
       "settings": {
         "main": true,
         "title": "search with Discover",
